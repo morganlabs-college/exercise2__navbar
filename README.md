@@ -1,7 +1,8 @@
-# HTML Exercise 2
+# HTML Navbar Exercise
 
 > **unit:** 6  
-**title:** Website Development
+**title:** Website Development  
+**exercise:** 2
 
 ---
 
